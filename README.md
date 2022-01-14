@@ -1,4 +1,4 @@
-# csv-to-calendar
+# csv-to-calendar (wip)
 
 Upload CSV timetable to Google Calendar. Pretty much the same as
 the [Importing Calendar Events from CSV to Google Calendar](https://support.google.com/calendar/answer/37118), but automatically.
